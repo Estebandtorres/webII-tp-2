@@ -1,0 +1,8 @@
+com\example\demo\client\dummyjson\DummyJsonProductosResponse.class
+com\example\demo\DemoApplication.class
+com\example\demo\exception\RecursoNoEncontradoException.class
+com\example\demo\exception\ServicioExternoException.class
+com\example\demo\client\dummyjson\DummyJsonProducto.class
+com\example\demo\exception\GlobalExceptionHandler.class
+com\example\demo\config\OpenApiConfig.class
+com\example\demo\config\RestClientConfig.class
